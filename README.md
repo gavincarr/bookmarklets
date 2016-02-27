@@ -1,6 +1,13 @@
 
 This is a collection of bookmarklets written by @gavincarr.
 
+Installation
+------------
+
+To install any of these bookmarklets, drag the relevant link from the
+[Installation](../blob/master/bookmarklets.html) page to somewhere in
+your bookmarks toolbar.
+
 fill_form_from_url.js
 ---------------------
 
@@ -12,8 +19,4 @@ pre-populate non-sensitive data in forms.
 
 (Warning: you probably should NOT use this for sensitive data like
 passwords or credit card numbers!)
-
-To install, drag the link below to your to somewhere in your bookmarks toolbar.
-
-<a href="javascript:(function(doc){var body = doc.getElementsByTagName('body')[0],script = doc.createElement('script');script.src = '//github.com/gavincarr/bookmarklets/blob/master/fill_form_from_url.js';body.appendChild(script);}(window.document));">Fill Form From URL</a>
 
