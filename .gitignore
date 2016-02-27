@@ -1,0 +1,8 @@
+.*.sw?
+.nfs*
+*~
+DevNotes
+TODO
+data/*
+node_modules/*
+var/*
