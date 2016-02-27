@@ -5,8 +5,8 @@ Installation
 ------------
 
 To install any of these bookmarklets, drag the relevant link from the
-[Installation](blob/master/bookmarklets.html) page to somewhere in
-your bookmarks toolbar.
+[Installation](bookmarklets.html) page to somewhere in your bookmarks
+toolbar.
 
 fill_form_from_url.js
 ---------------------
