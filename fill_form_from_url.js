@@ -33,7 +33,7 @@
       var field = query[i].split("=");
       
       // Set the input field with name field[0] with value field[1]
-      jQuery("input[name='" + field[0] + "'], select[name='" + field[0] + "']").val(field[1]);
+      jQuery("input[name='" + field[0] + "'], select[name='" + field[0] + "']").val(decodeURIComponent(field[1]));
     }
   }
 })();
